@@ -93,6 +93,10 @@ https://www.johndcook.com/blog/r_language_for_programmers/
 
 http://www.dataschool.io/
 
+http://www.datasciencecentral.com
+
+https://mubaris.com
+
 Math
 ----
 
